@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel 🤙
+### Olá! Eu sou o Gabriel 🖖
 
 - 🔭 Hoje trabalho com full stack 
 - 🌱 Estudando PHP e Javascript
