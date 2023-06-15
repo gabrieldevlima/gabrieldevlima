@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel 🖖
 
-- 🔭 Hoje trabalho com full stack 
+- 🔭 Hoje trabalho com Full Stack  | PHP | Javascript
 - 🌱 Estudando PHP e Javascript
 - 😄 Pronouns: ele/dele
 
